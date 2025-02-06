@@ -1,0 +1,7 @@
+
+We have used public type variables.
+Functions are used in after 7X php version
+
+ Encapsulation: The class contains properties and methods for sorting.
+ Reusability: The class can be reused for different JSON inputs.
+ Clean Code: Functions are well-structured inside the class.
